@@ -27,4 +27,4 @@ return decodedArr;
 
 // console.log(rot13("SERR YBIR? NPPVBWBO"));
 
-module.exports = rot13;
+window.rot13 = rot13;
